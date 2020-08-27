@@ -1,1 +1,1 @@
-# student
+# student information record system
